@@ -16,15 +16,13 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-7" value="“贸易”种子词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="420" />
-              <mxPoint x="390" y="370" />
-            </Array>
+        <mxCell id="kHvesSrTAGeA14tOnXBe-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;" edge="1" target="kHvesSrTAGeA14tOnXBe-12" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="395" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kHvesSrTAGeA14tOnXBe-12" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
