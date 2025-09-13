@@ -145,8 +145,8 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-63" value="现金流管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="119" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-71" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="470" y="497.5" width="60" height="165" as="geometry" />
+        <mxCell id="kHvesSrTAGeA14tOnXBe-71" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="487.5" width="60" height="172.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
