@@ -137,7 +137,7 @@
           <mxGeometry x="280" y="375" width="70" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-61" value="拓展词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="480" width="90" height="23.5" as="geometry" />
+          <mxGeometry x="390" y="480" width="70" height="23.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
