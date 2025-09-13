@@ -20,7 +20,7 @@
           <mxGeometry x="400" y="390" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="305" width="80" height="25" as="geometry" />
+          <mxGeometry x="100" y="305" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-14" value="CBOW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="278" width="60" height="30" as="geometry" />
