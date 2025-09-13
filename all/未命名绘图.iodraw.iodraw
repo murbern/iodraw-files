@@ -10,9 +10,6 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-3" value="RPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-4" value="“不确定”种子词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="380" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-7" value="“贸易”种子词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="300" width="70" height="30" as="geometry" />
         </mxCell>
@@ -63,8 +60,8 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-30" value="取交集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="301" y="299" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-31" value="“贸易”种子词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="363" width="70" height="30" as="geometry" />
+        <mxCell id="kHvesSrTAGeA14tOnXBe-31" value="“不确定”种子词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="363" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;CBOW&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="126" y="340" width="50" height="30" as="geometry" />
