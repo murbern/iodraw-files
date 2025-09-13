@@ -16,6 +16,16 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-7" value="“贸易”种子词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="300" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kHvesSrTAGeA14tOnXBe-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="420" />
+              <mxPoint x="390" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
