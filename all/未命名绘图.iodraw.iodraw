@@ -26,12 +26,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-21" value="拓展词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="283" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-22" value="拓展词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="313" width="70" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="360" y="293" width="40" height="30" as="geometry" />
         </mxCell>
@@ -66,12 +60,6 @@
               <mxPoint x="220" y="371.03000000000003" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-36" value="拓展词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="346" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-37" value="拓展词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="376" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="350" y="356" width="50" height="30" as="geometry" />
@@ -137,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-57" value="拓展词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="211" width="65" height="19" as="geometry" />
+          <mxGeometry x="290" y="276.5" width="65" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
