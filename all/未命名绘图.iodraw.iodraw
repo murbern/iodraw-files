@@ -125,7 +125,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-57" value="拓展词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="276.5" width="65" height="19" as="geometry" />
+          <mxGeometry x="290" y="279.5" width="70" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kHvesSrTAGeA14tOnXBe-58" value="拓展词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="311.5" width="70" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kHvesSrTAGeA14tOnXBe-59" value="拓展词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="321.5" width="70" height="23.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
