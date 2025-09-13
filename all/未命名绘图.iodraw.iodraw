@@ -58,7 +58,7 @@
           <mxGeometry x="340" y="300" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-30" value="取交集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="301" y="299" width="50" height="20" as="geometry" />
+          <mxGeometry x="300" y="299" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-31" value="“不确定”种子词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="363" width="90" height="30" as="geometry" />
@@ -106,6 +106,9 @@
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-41" value="取交集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="291" y="362" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kHvesSrTAGeA14tOnXBe-43" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="430" y="343" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
