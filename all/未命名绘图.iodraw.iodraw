@@ -136,8 +136,8 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-60" value="拓展词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="375" width="70" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-61" value="拓展词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="480" width="70" height="23.5" as="geometry" />
+        <mxCell id="kHvesSrTAGeA14tOnXBe-61" value="高管薪酬激励&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="100" height="23.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
