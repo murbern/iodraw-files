@@ -140,7 +140,7 @@
           <mxGeometry x="370" y="480" width="90" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-62" value="机构投资者持股比例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="369" y="558.25" width="90" height="23.5" as="geometry" />
+          <mxGeometry x="340" y="550" width="119" height="31.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
