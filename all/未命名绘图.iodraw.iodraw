@@ -148,14 +148,14 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-71" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="279" y="489" width="60" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-72" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="kHvesSrTAGeA14tOnXBe-72" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="kHvesSrTAGeA14tOnXBe-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="566" as="sourcePoint" />
-            <mxPoint x="338.99999999999994" y="565.92" as="targetPoint" />
+            <mxPoint x="280" y="565.87" as="sourcePoint" />
+            <mxPoint x="338.99999999999994" y="565.79" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="309" y="565.92" />
-              <mxPoint x="319" y="566.09" />
-              <mxPoint x="328.99999999999994" y="566.09" />
+              <mxPoint x="309" y="565.79" />
+              <mxPoint x="319" y="565.96" />
+              <mxPoint x="328.99999999999994" y="565.96" />
             </Array>
           </mxGeometry>
         </mxCell>
