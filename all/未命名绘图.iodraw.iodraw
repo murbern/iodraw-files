@@ -57,8 +57,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-28" value="“贸易”种子词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="310" width="70" height="30" as="geometry" />
+        <mxCell id="kHvesSrTAGeA14tOnXBe-28" value="“贸易”拓展词词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
