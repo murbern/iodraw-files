@@ -40,11 +40,8 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-22" value="拓展词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-24" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="319.83" as="sourcePoint" />
-            <mxPoint x="290" y="319.83" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="kHvesSrTAGeA14tOnXBe-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
