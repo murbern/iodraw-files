@@ -104,11 +104,11 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-45" value="“不确定”种子词" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="358" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-47" value="“贸易”种子词" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kHvesSrTAGeA14tOnXBe-47" value="“贸易”拓展词" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="295" width="94" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-48" value="“不确定”种子词" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="368" width="94" height="40" as="geometry" />
+          <mxGeometry x="330" y="358" width="94" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
