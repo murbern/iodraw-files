@@ -136,36 +136,17 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-60" value="拓展词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="375" width="70" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kHvesSrTAGeA14tOnXBe-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="491.75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="316" y="492" />
-              <mxPoint x="316" y="570" />
-              <mxPoint x="290" y="570" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-61" value="高管薪酬激励&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="480" width="120" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-62" value="机构投资者持股比例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="550" width="119" height="31.75" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="316" y="570" as="targetPoint" />
-            <mxPoint x="336" y="651.75" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="316" y="652" />
-              <mxPoint x="316" y="611" />
-              <mxPoint x="317" y="611" />
-              <mxPoint x="317" y="570" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-63" value="现金流管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="119" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kHvesSrTAGeA14tOnXBe-71" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="470" y="497.5" width="60" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
