@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="0OP1Z9dQS698GfYeM3TP">
-    <mxGraphModel dx="983" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,16 +61,16 @@
         <mxCell id="5oUR80_XGiPB9SJE5pg9-20" value="数据进行清洗、格式化，去除缺失值或异常值。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="200" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5oUR80_XGiPB9SJE5pg9-21" value="数据进行清洗、格式化，去除缺失值或异常值。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5oUR80_XGiPB9SJE5pg9-21" value="使用测试数据检查模型的预测效果。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="435" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5oUR80_XGiPB9SJE5pg9-22" value="数据进行清洗、格式化，去除缺失值或异常值。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5oUR80_XGiPB9SJE5pg9-22" value="将数据输入模型，让模型学习输入和输出之间的关系。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="365" width="156" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5oUR80_XGiPB9SJE5pg9-23" value="根据问题选择合适的机器学习算法，例如线性回归。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="285" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5oUR80_XGiPB9SJE5pg9-24" value="数据进行清洗、格式化，去除缺失值或异常值。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5oUR80_XGiPB9SJE5pg9-24" value="将训练好的模型用于新数据的预测或决策。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="520" width="156" height="40" as="geometry" />
         </mxCell>
       </root>
