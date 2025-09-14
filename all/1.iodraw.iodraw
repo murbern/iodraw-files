@@ -55,8 +55,8 @@
         <mxCell id="5oUR80_XGiPB9SJE5pg9-17" value="解释" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="525" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oUR80_XGiPB9SJE5pg9-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="5oUR80_XGiPB9SJE5pg9-19" value="可以使用pandas直接读取文件或者用numpy定义特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
