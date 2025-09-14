@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5oUR80_XGiPB9SJE5pg9-1" value="搜集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="100" height="40" as="geometry" />
+          <mxGeometry x="100" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5oUR80_XGiPB9SJE5pg9-2" value="准备数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="220" width="100" height="40" as="geometry" />
+          <mxGeometry x="110" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5oUR80_XGiPB9SJE5pg9-3" value="选择模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="100" height="40" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="100" y="370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5oUR80_XGiPB9SJE5pg9-5" value="评估模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="480" width="100" height="40" as="geometry" />
+          <mxGeometry x="100" y="450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5oUR80_XGiPB9SJE5pg9-6" value="应用模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="550" width="100" height="40" as="geometry" />
