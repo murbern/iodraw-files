@@ -10,11 +10,14 @@
         <mxCell id="5oUR80_XGiPB9SJE5pg9-2" value="准备数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="220" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5oUR80_XGiPB9SJE5pg9-3" value="搜集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5oUR80_XGiPB9SJE5pg9-3" value="选择模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5oUR80_XGiPB9SJE5pg9-4" value="搜集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5oUR80_XGiPB9SJE5pg9-4" value="训练模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5oUR80_XGiPB9SJE5pg9-5" value="训练模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
