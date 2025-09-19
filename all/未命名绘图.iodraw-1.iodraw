@@ -121,14 +121,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="kHvesSrTAGeA14tOnXBe-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="kHvesSrTAGeA14tOnXBe-51" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="534.9950469336856" y="499" as="sourcePoint" />
-            <mxPoint x="449.92" y="505" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="465" y="499" />
-              <mxPoint x="450" y="500" />
-            </Array>
+            <mxPoint x="534.9950469336856" y="498.11" as="sourcePoint" />
+            <mxPoint x="450" y="505.11" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-57" value="拓展词" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
