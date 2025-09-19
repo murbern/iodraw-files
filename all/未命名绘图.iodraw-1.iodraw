@@ -52,16 +52,6 @@
         <mxCell id="kHvesSrTAGeA14tOnXBe-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="356" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kHvesSrTAGeA14tOnXBe-35" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="371.1" as="sourcePoint" />
-            <mxPoint x="230" y="370.86" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="371" />
-              <mxPoint x="220" y="371.03000000000003" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="350" y="356" width="50" height="30" as="geometry" />
         </mxCell>
@@ -175,12 +165,12 @@
         </mxCell>
         <mxCell id="X8a8RnhuyBHD870JvE9d-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=-0.013;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="211" y="328.07" as="sourcePoint" />
-            <mxPoint x="234" y="328.07" as="targetPoint" />
+            <mxPoint x="208" y="372.07" as="sourcePoint" />
+            <mxPoint x="231" y="372.07" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="195" y="328.07" />
-              <mxPoint x="211" y="328" />
-              <mxPoint x="221" y="328" />
+              <mxPoint x="190" y="372" />
+              <mxPoint x="208" y="372" />
+              <mxPoint x="218" y="372" />
             </Array>
           </mxGeometry>
         </mxCell>
