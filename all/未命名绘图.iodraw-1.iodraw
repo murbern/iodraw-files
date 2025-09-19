@@ -105,19 +105,19 @@
           <mxGeometry x="535" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-52" value="RPI" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="515.88" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="455.13" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="405" y="477.5" width="60" height="165" as="geometry" />
+          <mxGeometry x="370" y="416.75" width="60" height="165" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-54" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=1.035;exitY=0.547;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="401.9500000000001" y="559.765" as="sourcePoint" />
-            <mxPoint x="464.04999999999995" y="560.02" as="targetPoint" />
+            <mxPoint x="366.9500000000001" y="499.015" as="sourcePoint" />
+            <mxPoint x="429.04999999999995" y="499.27" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="434.05" y="560.02" />
-              <mxPoint x="444.05" y="560.19" />
-              <mxPoint x="454.05" y="560.19" />
+              <mxPoint x="399.05" y="499.27" />
+              <mxPoint x="409.05" y="499.44000000000005" />
+              <mxPoint x="419.05" y="499.44000000000005" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -141,32 +141,32 @@
           <mxGeometry x="280" y="375" width="70" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-61" value="高管薪酬激励&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="470" width="120" height="23.5" as="geometry" />
+          <mxGeometry x="250" y="409.25" width="120" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-62" value="机构投资者持股比例" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="540" width="119" height="31.75" as="geometry" />
+          <mxGeometry x="250" y="479.25" width="119" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-63" value="现金流管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="630" width="119" height="23.5" as="geometry" />
+          <mxGeometry x="250" y="569.25" width="119" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-71" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="224" y="479" width="60" height="166" as="geometry" />
+          <mxGeometry x="189" y="418.25" width="60" height="166" as="geometry" />
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-72" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="kHvesSrTAGeA14tOnXBe-62" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="225" y="555.87" as="sourcePoint" />
-            <mxPoint x="283.99999999999994" y="555.79" as="targetPoint" />
+            <mxPoint x="190" y="495.12" as="sourcePoint" />
+            <mxPoint x="248.99999999999994" y="495.03999999999996" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="254" y="555.79" />
-              <mxPoint x="264" y="555.96" />
-              <mxPoint x="273.99999999999994" y="555.96" />
+              <mxPoint x="219" y="495.03999999999996" />
+              <mxPoint x="229" y="495.21000000000004" />
+              <mxPoint x="238.99999999999994" y="495.21000000000004" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kHvesSrTAGeA14tOnXBe-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="294" y="555.74" as="sourcePoint" />
-            <mxPoint x="214" y="555.74" as="targetPoint" />
+            <mxPoint x="259" y="494.99" as="sourcePoint" />
+            <mxPoint x="179" y="494.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
