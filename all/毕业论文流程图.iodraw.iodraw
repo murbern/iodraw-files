@@ -5,16 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UvOhIHFVCaNZq6a23ewx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="210" height="50" as="geometry" />
+          <mxGeometry x="220" y="60" width="390" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="UvOhIHFVCaNZq6a23ewx-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UvOhIHFVCaNZq6a23ewx-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UvOhIHFVCaNZq6a23ewx-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="210" height="50" as="geometry" />
+        <mxCell id="UvOhIHFVCaNZq6a23ewx-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
