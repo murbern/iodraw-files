@@ -55,12 +55,12 @@
         <mxCell id="UvOhIHFVCaNZq6a23ewx-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;创新与不足&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="150" width="90" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="UvOhIHFVCaNZq6a23ewx-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UvOhIHFVCaNZq6a23ewx-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="270" as="sourcePoint" />
-            <mxPoint x="375" y="310" as="targetPoint" />
+            <mxPoint x="380" y="200" as="sourcePoint" />
+            <mxPoint x="379.71" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="375" y="250" />
+              <mxPoint x="379.71" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
