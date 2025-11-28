@@ -86,11 +86,6 @@
             <mxPoint x="-1433.5" y="996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UvOhIHFVCaNZq6a23ewx-73">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1168" y="856.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UvOhIHFVCaNZq6a23ewx-73" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据处理与变量选择&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1813" y="999" width="110" height="23" as="geometry" />
         </mxCell>
@@ -98,7 +93,7 @@
           <mxGeometry x="-1643" y="999" width="90" height="23" as="geometry" />
         </mxCell>
         <mxCell id="UvOhIHFVCaNZq6a23ewx-75" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;实证分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1493" y="999" width="110" height="23" as="geometry" />
+          <mxGeometry x="-1244" y="752" width="110" height="23" as="geometry" />
         </mxCell>
         <mxCell id="UvOhIHFVCaNZq6a23ewx-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;startSize=8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
