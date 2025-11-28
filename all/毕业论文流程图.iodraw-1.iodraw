@@ -307,6 +307,9 @@
         <mxCell id="UvOhIHFVCaNZq6a23ewx-53" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;理论机制与研究假设&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1232" y="391" width="110" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-28" value="提&lt;div&gt;出&lt;/div&gt;&lt;div&gt;问&lt;/div&gt;&lt;div&gt;题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1474" y="220" width="42" height="104" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
