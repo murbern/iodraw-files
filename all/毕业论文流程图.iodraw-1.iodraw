@@ -278,17 +278,8 @@
         <mxCell id="21BlrwOz6oRd9nXvwIPN-49" value="优势及&lt;div&gt;潜在问题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1119.37" y="562" width="68.37" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-50" value="解&lt;div&gt;决&lt;/div&gt;&lt;div&gt;问&lt;/div&gt;&lt;div&gt;题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1487" y="648" width="39" height="104" as="geometry" />
-        </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-51" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;贸易政策不确定性对于中国装备制造业出口影响的实证分析&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1438" y="659.63" width="129" height="80.75" as="geometry" />
-        </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.385;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1466.9850000000001" y="496.03999999999996" as="sourcePoint" />
-            <mxPoint x="-1467.92" y="648" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-53" value="实&lt;div&gt;证&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1029" y="625" width="31" height="83" as="geometry" />
@@ -405,7 +396,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-80" value="解&lt;div&gt;决&lt;/div&gt;&lt;div&gt;问&lt;/div&gt;&lt;div&gt;题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1498" y="923" width="39" height="104" as="geometry" />
+          <mxGeometry x="-1510.5" y="922" width="86" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
