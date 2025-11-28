@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-5" value="提&lt;div&gt;出&lt;/div&gt;&lt;div&gt;问&lt;/div&gt;&lt;div&gt;题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1484" y="210" width="42" height="104" as="geometry" />
+          <mxGeometry x="-1483" y="210" width="37" height="104" as="geometry" />
         </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
