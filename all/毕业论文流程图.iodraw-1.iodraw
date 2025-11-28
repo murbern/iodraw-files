@@ -333,8 +333,8 @@
         <mxCell id="21BlrwOz6oRd9nXvwIPN-50" value="解&lt;div&gt;决&lt;/div&gt;&lt;div&gt;问&lt;/div&gt;&lt;div&gt;题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1487" y="648" width="39" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-51" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;实证分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1422" y="688.5" width="130" height="23" as="geometry" />
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-51" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;贸易政策不确定性对于中国装备制造业出口影响的实证分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1433.5" y="670.25" width="161" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.385;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
