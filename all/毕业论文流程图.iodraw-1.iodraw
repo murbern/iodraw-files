@@ -31,39 +31,8 @@
         <mxCell id="UvOhIHFVCaNZq6a23ewx-40" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;概念界定与理论基础&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1413" y="325" width="130" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="UvOhIHFVCaNZq6a23ewx-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;startSize=8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1598" y="669" as="sourcePoint" />
-            <mxPoint x="-1598.29" y="719" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1598.29" y="669" />
-              <mxPoint x="-1598.29" y="699" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UvOhIHFVCaNZq6a23ewx-56" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;现状分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1429" y="473.38" width="130" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="UvOhIHFVCaNZq6a23ewx-57" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1599" y="776" as="sourcePoint" />
-            <mxPoint x="-1599.5" y="749" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UvOhIHFVCaNZq6a23ewx-58" value="" style="line;strokeWidth=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1772.5" y="771" width="339" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="UvOhIHFVCaNZq6a23ewx-59" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1772.5" y="776" as="sourcePoint" />
-            <mxPoint x="-1772.5" y="806" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UvOhIHFVCaNZq6a23ewx-61" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1433.5" y="776" as="sourcePoint" />
-            <mxPoint x="-1433.5" y="806" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="UvOhIHFVCaNZq6a23ewx-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;中国贸易政策&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;不确定性现状&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1241.5" y="423" width="82" height="44" as="geometry" />
@@ -362,7 +331,7 @@
           <mxGeometry x="-1119.37" y="562" width="68.37" height="28" as="geometry" />
         </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-50" value="问&lt;div&gt;题&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1475" y="401" width="39" height="104" as="geometry" />
+          <mxGeometry x="-1485" y="598" width="39" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
