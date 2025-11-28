@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="OlyK07hsbMUqSujdh2UC">
-    <mxGraphModel dx="4829" dy="991" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4529" dy="991" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
         <mxCell id="UvOhIHFVCaNZq6a23ewx-84" value="结论与展望" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1658" y="1099" width="110" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-1" value="&lt;b&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;贸易政策不确定性对中国装备制造业出口的影响研究&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-1" value="&lt;b&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;贸易政策不确定性对中国装备制造业出口的影响研究&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1362" y="26" width="212" height="55" as="geometry" />
         </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
