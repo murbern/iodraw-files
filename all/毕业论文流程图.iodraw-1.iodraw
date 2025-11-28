@@ -263,13 +263,11 @@
         <mxCell id="21BlrwOz6oRd9nXvwIPN-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1077.5" y="106" width="103" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22.962962962962962;endSize=9.459259259259259;" edge="1" parent="1">
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22.962962962962962;endSize=10.051851851851852;endWidth=30.397805212620025;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1350" y="221" as="sourcePoint" />
-            <mxPoint x="-1350" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1350" y="260" />
-            </Array>
+            <mxPoint x="-1346" y="211" as="sourcePoint" />
+            <mxPoint x="-1346" y="290" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
