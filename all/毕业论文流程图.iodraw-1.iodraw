@@ -389,19 +389,13 @@
         <mxCell id="21BlrwOz6oRd9nXvwIPN-78" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;异质性分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1096" y="810" width="59" height="17.46" as="geometry" />
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.385;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1470.065" y="752" as="sourcePoint" />
-            <mxPoint x="-1471" y="903.96" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-80" value="解&lt;div&gt;决&lt;/div&gt;&lt;div&gt;问&lt;/div&gt;&lt;div&gt;题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1510.5" y="922" width="86" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1464" y="324" as="sourcePoint" />
-            <mxPoint x="-1464" y="590" as="targetPoint" />
+            <mxPoint x="-1475" y="746" as="sourcePoint" />
+            <mxPoint x="-1477" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
