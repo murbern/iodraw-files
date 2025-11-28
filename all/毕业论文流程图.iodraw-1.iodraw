@@ -224,13 +224,10 @@
         <mxCell id="21BlrwOz6oRd9nXvwIPN-1" value="&lt;b&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;贸易政策不确定性对中国装备制造业出口的影响研究&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1362" y="26" width="212" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1405" y="135" as="sourcePoint" />
-            <mxPoint x="-1456" y="59" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1418" y="59" />
-            </Array>
+            <mxPoint x="-1361" y="169" as="sourcePoint" />
+            <mxPoint x="-1311" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
