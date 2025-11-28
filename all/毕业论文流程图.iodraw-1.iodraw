@@ -358,8 +358,8 @@
         <mxCell id="21BlrwOz6oRd9nXvwIPN-48" value="出口现状" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1116.87" y="521" width="55.37" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-49" value="特征及趋势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1116.87" y="565" width="64.37" height="20" as="geometry" />
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-49" value="优势及&lt;div&gt;潜在问题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1119.37" y="562" width="68.37" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
