@@ -260,8 +260,8 @@
             <mxPoint x="-1244" y="152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;基本思路&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1518" y="116" width="130" height="26" as="geometry" />
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1089" y="106" width="130" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
