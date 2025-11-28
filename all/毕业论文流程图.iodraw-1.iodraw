@@ -422,7 +422,7 @@
             <mxPoint x="-1014.5999999999999" y="772" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-86" value="实&lt;div&gt;证&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-86" value="归纳分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1019" y="635" width="31" height="83" as="geometry" />
         </mxCell>
       </root>
