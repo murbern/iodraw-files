@@ -69,7 +69,7 @@
           <mxGeometry x="-1236" y="426" width="82" height="44" as="geometry" />
         </mxCell>
         <mxCell id="UvOhIHFVCaNZq6a23ewx-64" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;中国装备&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;制造业出口现状&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1236" y="537" width="140" height="23" as="geometry" />
+          <mxGeometry x="-1236" y="537" width="85" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UvOhIHFVCaNZq6a23ewx-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;endSize=6;startSize=8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -279,8 +279,8 @@
         </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-29" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1269" y="486" as="sourcePoint" />
-            <mxPoint x="-1296" y="487" as="targetPoint" />
+            <mxPoint x="-1272" y="486" as="sourcePoint" />
+            <mxPoint x="-1299" y="487" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-30" value="" style="line;strokeWidth=1;html=1;rotation=-90;" vertex="1" parent="1">
