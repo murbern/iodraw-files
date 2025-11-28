@@ -329,7 +329,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="21BlrwOz6oRd9nXvwIPN-42" value="测度方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1119.37" y="414" width="50.37" height="37.42" as="geometry" />
+          <mxGeometry x="-1119.37" y="414" width="55.37" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-43" value="特征及趋势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1119.37" y="458" width="55.37" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
