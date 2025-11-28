@@ -328,7 +328,7 @@
             <mxPoint x="-1121.37" y="466.84000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="21BlrwOz6oRd9nXvwIPN-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;中国贸易政策&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;不确定性现状&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-42" value="测度方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1119.37" y="414" width="50.37" height="37.42" as="geometry" />
         </mxCell>
       </root>
