@@ -65,6 +65,9 @@
             <mxPoint x="-1433.5" y="806" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UvOhIHFVCaNZq6a23ewx-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;中国贸易政策&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;不确定性现状&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1241.5" y="423" width="82" height="44" as="geometry" />
+        </mxCell>
         <mxCell id="UvOhIHFVCaNZq6a23ewx-64" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;中国装备&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;制造业出口现状&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1241.5" y="530" width="85" height="35" as="geometry" />
         </mxCell>
@@ -324,6 +327,9 @@
             <mxPoint x="-1141.37" y="466.84000000000003" as="sourcePoint" />
             <mxPoint x="-1121.37" y="466.84000000000003" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;中国贸易政策&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;不确定性现状&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1119.37" y="414" width="50.37" height="37.42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
