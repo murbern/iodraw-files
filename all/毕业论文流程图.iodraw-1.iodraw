@@ -334,6 +334,33 @@
         <mxCell id="21BlrwOz6oRd9nXvwIPN-43" value="特征及趋势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1119.37" y="458" width="64.37" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-44" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.584;exitY=0.534;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="21BlrwOz6oRd9nXvwIPN-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1138.31" y="549.6" as="sourcePoint" />
+            <mxPoint x="-1156.81" y="550.1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-45" value="" style="line;strokeWidth=1;html=1;rotation=-90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-1159.5" y="548.4200000000001" width="42.63" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-46" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1138.31" y="532.6" as="sourcePoint" />
+            <mxPoint x="-1118.31" y="532.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-47" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1138.87" y="573.84" as="sourcePoint" />
+            <mxPoint x="-1118.87" y="573.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-48" value="出口现状" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1116.87" y="521" width="55.37" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="21BlrwOz6oRd9nXvwIPN-49" value="特征及趋势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1116.87" y="565" width="64.37" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
