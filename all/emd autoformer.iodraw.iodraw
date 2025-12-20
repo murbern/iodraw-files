@@ -451,12 +451,12 @@
               <mxPoint x="624.040404040404" y="552.0028406466513" />
             </Array>
             <mxPoint x="600" y="552.4" as="sourcePoint" />
-            <mxPoint x="725" y="552" as="targetPoint" />
+            <mxPoint x="710" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="724" y="552" as="sourcePoint" />
+            <mxPoint x="724" y="550" as="sourcePoint" />
             <mxPoint x="723.66" y="521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
