@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-70" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="129.04" y="469" width="660.96" height="151" as="geometry" />
         </mxCell>
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-69" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="164.02" y="253.66" width="545.98" height="196.34" as="geometry" />
+          <mxGeometry x="164.02" y="253.66" width="505.98" height="196.34" as="geometry" />
         </mxCell>
         <mxCell id="lYoIZcQrjGqGSl3GRgq2-1" value="" style="group" parent="1" connectable="0" vertex="1">
           <mxGeometry x="376.4" y="376.1" width="45.60000000000002" height="20" as="geometry" />
