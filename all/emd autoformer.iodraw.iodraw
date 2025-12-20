@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="Autoformer Structure" id="eXs8pBDnsIFd0tpqrzyj">
-    <mxGraphModel dx="1188" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -569,8 +569,8 @@
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-76" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;primitive sequence&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="35.5" y="300.61" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-77" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Seasonal sequence&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="9.04" y="469" width="120" height="30" as="geometry" />
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-77" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;seasonal sequence&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="12.04" y="474" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;trend sequence&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="28.02" y="539.75" width="100" height="30" as="geometry" />
