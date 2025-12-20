@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="Autoformer Structure" id="eXs8pBDnsIFd0tpqrzyj">
-    <mxGraphModel dx="328" dy="172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="383" dy="172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -445,19 +445,16 @@
             <mxPoint x="600.4000000000001" y="521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-23" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="624.040404040404" y="552.0028406466513" />
-            </Array>
-            <mxPoint x="600" y="552.4" as="sourcePoint" />
-            <mxPoint x="710" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="724" y="550" as="sourcePoint" />
             <mxPoint x="723.66" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="582" y="585" as="sourcePoint" />
+            <mxPoint x="622" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
