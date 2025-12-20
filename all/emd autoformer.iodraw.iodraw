@@ -478,6 +478,15 @@
             <mxPoint x="776" y="550.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-39" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="770" y="554" width="11" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=hatch;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=#FFFFFF;" vertex="1" parent="BbFCDtKeXQ0-EWo-lBVg-39">
+          <mxGeometry width="11" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-41" value="＋" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=9;fontColor=default;strokeWidth=0;dashed=1;spacingTop=0;spacing=0;" vertex="1" parent="BbFCDtKeXQ0-EWo-lBVg-39">
+          <mxGeometry x="5" y="6.389999999999986" width="1" height="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
