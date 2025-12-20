@@ -567,7 +567,13 @@
           <mxGeometry x="714" y="468.75" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-76" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;primitive sequence&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35.5" y="297.61" width="120" height="30" as="geometry" />
+          <mxGeometry x="35.5" y="300.61" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-77" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;primitive sequence&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9.04" y="469" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;primitive sequence&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="19.04" y="479" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
