@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="Autoformer Structure" id="eXs8pBDnsIFd0tpqrzyj">
-    <mxGraphModel dx="475" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,10 +370,10 @@
         <mxCell id="lYoIZcQrjGqGSl3GRgq2-108" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="613.040404040404" y="626.0028406466513" />
+              <mxPoint x="610.040404040404" y="630.0028406466513" />
             </Array>
-            <mxPoint x="589" y="626.4" as="sourcePoint" />
-            <mxPoint x="707" y="626.4" as="targetPoint" />
+            <mxPoint x="586" y="630.4" as="sourcePoint" />
+            <mxPoint x="704" y="630.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lYoIZcQrjGqGSl3GRgq2-109" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -444,6 +444,9 @@
         </mxCell>
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-8" value="q" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="381" y="507" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Auto-&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Correlation&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="410.5" y="497" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
