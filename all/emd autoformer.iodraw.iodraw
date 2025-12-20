@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="133.04000000000002" y="480" width="545.98" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="164.02" y="253.66" width="545.98" height="210" as="geometry" />
+          <mxGeometry x="164.02" y="253.66" width="545.98" height="196.34" as="geometry" />
         </mxCell>
         <mxCell id="lYoIZcQrjGqGSl3GRgq2-1" value="" style="group" parent="1" connectable="0" vertex="1">
           <mxGeometry x="376.4" y="376.1" width="45.60000000000002" height="20" as="geometry" />
@@ -571,9 +574,6 @@
         </mxCell>
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-67" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;prediction&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="807" y="559" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98.03000000000002" y="498.75" width="545.98" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
