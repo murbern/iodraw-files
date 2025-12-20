@@ -578,7 +578,7 @@
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-72" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Encoder&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="171" y="270" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-73" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Encoder&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-73" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Decoder&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="139.02" y="595" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
