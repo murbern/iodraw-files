@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="Autoformer Structure" id="eXs8pBDnsIFd0tpqrzyj">
-    <mxGraphModel dx="475" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -416,6 +416,23 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="582" y="519.58" as="sourcePoint" />
             <mxPoint x="622" y="519.7900000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-13" value="" style="group;fillColor=none;strokeColor=none;fillStyle=hatch;gradientColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="90" height="66.88" as="geometry" />
+        </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-14" value="GFU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="BbFCDtKeXQ0-EWo-lBVg-13">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-15" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="BbFCDtKeXQ0-EWo-lBVg-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="21.529999999999973" as="sourcePoint" />
+            <mxPoint x="80" y="114.77999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BbFCDtKeXQ0-EWo-lBVg-15">
+          <mxGeometry x="0.6095" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
