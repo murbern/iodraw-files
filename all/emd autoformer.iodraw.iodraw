@@ -569,7 +569,7 @@
             <mxPoint x="802" y="556.36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BbFCDtKeXQ0-EWo-lBVg-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="805" y="532" width="20" height="53" as="geometry" />
         </mxCell>
         <mxCell id="BbFCDtKeXQ0-EWo-lBVg-67" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;prediction&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;fontSize=11;" vertex="1" parent="1">
