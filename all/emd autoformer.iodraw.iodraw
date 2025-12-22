@@ -100,7 +100,7 @@
         <mxCell id="lYoIZcQrjGqGSl3GRgq2-22" value="EMD" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="181" y="332.22" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="lYoIZcQrjGqGSl3GRgq2-23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Auto-&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Correlation&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="lYoIZcQrjGqGSl3GRgq2-23" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Multi-head&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;attention&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="422" y="367.22" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lYoIZcQrjGqGSl3GRgq2-24" value="" style="group;fillColor=none;strokeColor=none;fillStyle=hatch;gradientColor=default;" parent="1" connectable="0" vertex="1">
